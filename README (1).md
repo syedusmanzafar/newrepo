@@ -6,7 +6,7 @@
 
 This is an encryption program using a substitution – permutation network.  The cipher uses a symmetric key- so the same key is used for encryption and decryption           
 
-![](plain.jpg)
+![](plain.JPG)
 
 Up to 10,000 characters can be encrypted. All English letters and numbers can be used as well as the characters !@#$%^&\*()-\_ All letters are automatically converted to uppercase.
 
@@ -14,7 +14,7 @@ Up to 10,000 characters can be encrypted. All English letters and numbers can be
 
 The same three pass codes are required for encryption and decryption.  Between 6 to 12 characters per pass code are required. The ability to decrypt your message relies on your ability to keep the code words safe and to use this program.  
 
-![](code.jpg)
+![](code.JPG)
 
 This cipher program uses three encryption methods.  Substitution, permutation and random characters.  The substitution and most permutation functions are dictated based on the passcodes.  
 
